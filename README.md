@@ -65,7 +65,7 @@ To set up and run the application, follow these steps:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone <https://github.com/joel191/todo-list.git>
+   git clone https://github.com/joel191/todo-list.git
 
 2. **Navigate to the Project Directory**
 cd todo-list-application
