@@ -79,6 +79,7 @@ To set up and run the application, follow these steps:
 
 1. **Start the Development Server**
 ## Run the following command to start the development server:
+
 ```bash
 npm start
 
