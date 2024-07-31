@@ -68,18 +68,19 @@ To set up and run the application, follow these steps:
    git clone https://github.com/joel191/todo-list.git
 
 2. **Navigate to the Project Directory**
-   '''bash
+   ```bash
    cd todo-list-application
 
 4. **install Dependencies**
-   '''bash
+   ```bash
    npm install
 
 ### Running The APplication 
 
 1. **Start the Development Server**
 ## Run the following command to start the development server:
-npm install
+```bash
+npm start
 
 2. **Access the Application**
 Open your web browser and navigate to http://localhost:3000 to access the Todo List application.
