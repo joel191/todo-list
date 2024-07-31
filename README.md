@@ -68,10 +68,12 @@ To set up and run the application, follow these steps:
    git clone https://github.com/joel191/todo-list.git
 
 2. **Navigate to the Project Directory**
-cd todo-list-application
+   '''bash
+   cd todo-list-application
 
-3. **install Dependencies**
-npm install
+4. **install Dependencies**
+   '''bash
+   npm install
 
 ### Running The APplication 
 
